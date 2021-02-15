@@ -1,0 +1,1 @@
+;Realice la división entera de los números ingresados por teclado. Imprima el resultado por pantalla y guarde en variables el cociente y resto.

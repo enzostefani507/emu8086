@@ -1,0 +1,1 @@
+;Recorrer un vector y copiarlo a un segundo vector, solo los contenidos impares del primer vector

@@ -1,0 +1,1 @@
+;Recorrer un vector cargado con 10 elementos y copiar el contenido en un segundo vector

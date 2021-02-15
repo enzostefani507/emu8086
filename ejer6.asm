@@ -1,0 +1,1 @@
+;Cargar un vector por teclado, con 10 elementos e imprimir por pantalla los valores ingresados, separados por comas.
