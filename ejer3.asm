@@ -1,11 +1,11 @@
-;Realice un programa que sume dos números enteros, ingresados por teclado 
+;Realice un programa que sume dos numeros enteros, ingresados por teclado 
 
 ;Solicito numero
 mov ah,9
 mov dx,offset var1
 int 21h
 
-;Leo primer número
+;Leo primer numero
 mov ah,1
 int 21h 
 mov cl,al ;guardo entrada en cl  
@@ -16,7 +16,7 @@ mov ah,9
 mov dx,offset var1
 int 21h
 
-;Leo segundo número
+;Leo segundo nï¿½mero
 mov ah,1
 int 21h;
 sub al,30h ;corrijo ascii restando 30h

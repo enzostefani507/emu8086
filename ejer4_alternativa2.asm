@@ -1,4 +1,4 @@
-;Realice la multiplicación de dos números ingresados por teclado, que almacene el resultado en la variable 'Result' e imprima el resultado por pantalla
+;Realice la multiplicacion de dos numeros ingresados por teclado, que almacene el resultado en la variable 'Result' e imprima el resultado por pantalla
 
 include 'emu8086.inc' 
 
