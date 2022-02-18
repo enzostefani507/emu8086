@@ -1,0 +1,1 @@
+;Realice un programa que recorra el siguiente segmento de datos: 2,9,5,12,45,33,99,67,3,1. Y que muestre en pantala la cantidad de números impares.

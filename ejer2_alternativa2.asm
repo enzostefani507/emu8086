@@ -12,5 +12,5 @@ name "Ejercicio 2"
   mov dato2,al
 
 ret ;retorno
-
+                                                          
 end
